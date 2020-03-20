@@ -1,0 +1,10 @@
+insert into Cities (id_o, Town) values (1, 'Moscow');
+insert into Cities (id_o, Town) values (1, 'Vladimir');
+insert into Cities (id_o, Town) values (1, 'Voronezh');
+insert into Cities (id_o, Town) values (2, 'Saint Petersburg');
+insert into Cities (id_o, Town) values (2, 'Arkhangelsk');
+insert into Cities (id_o, Town) values (2, 'Pskov');
+insert into Cities (id_o, Town) values (3, 'Crimea');
+insert into Cities (id_o, Town) values (3, 'Rostov');
+insert into Cities (id_o, Town) values (3, 'Krasnodar');
+insert into Cities (id_o, Town) values (3, 'Volgograd');

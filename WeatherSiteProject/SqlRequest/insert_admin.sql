@@ -1,0 +1,1 @@
+insert into Users(id_user, email, pass) values(0, 'admin', '12345');
